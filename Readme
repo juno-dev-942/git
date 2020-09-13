@@ -7,8 +7,4 @@
 - Git Alias:
 
 - Create Local Repository: git init
-<<<<<<< HEAD
 - Add Repository: git remove add <orgin> <URL>
-=======
-- Check Status: git status
->>>>>>> 2c6b2caf52ada3683c94c4b9907cc49dc8e1f2fe

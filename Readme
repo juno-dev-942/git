@@ -1,0 +1,7 @@
+- Install Git: sudo apt-get install git
+- View Config: git config --global --list
+- Config:
+   + git config --global user.name "Le Xuan Hoa"
+   + git config --global user.email dev.xuanhoa@gmail.com
+- Color View: git config --global color.ui false
+- Git Alias:

@@ -6,4 +6,4 @@
 - Color View: git config --global color.ui false
 - Git Alias:
 
-- Create Local Repository in your host: git init
+- Create Local Repository: git init

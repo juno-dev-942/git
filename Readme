@@ -5,3 +5,5 @@
    + git config --global user.email dev.xuanhoa@gmail.com
 - Color View: git config --global color.ui false
 - Git Alias:
+
+- Create Local Repository: git init
